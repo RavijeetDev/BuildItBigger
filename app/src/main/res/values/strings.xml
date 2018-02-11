@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuildItBigger</string>
+    <string name="tell_joke">Tell Joke</string>
+    <string name="app_engine_url">http://10.0.2.2:8080/_ah/api/</string>
+    <string name="banner">BANNER</string>
+
+</resources>
